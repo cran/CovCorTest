@@ -1,13 +1,15 @@
-fd40918b3e263cda842b47c6b1c58ef6 *DESCRIPTION
-8ab4da145d7900eabd7e9b3a56c5eb70 *NAMESPACE
+b5b400281101184955161a9dcb61080c *DESCRIPTION
+8be7c15cce12db1aa633cc01a9942bcb *NAMESPACE
+b60ddee16229487433c4400f209683d1 *NEWS.md
 74c3db9cf9dc46ec3925169bf41197f3 *R/combined.R
 15f7f87d7ad4f8c87ea26a1a7b4554a9 *R/correlation.R
 88b5cf0d248b5a8983a880d900cf5aba *R/correlation_utils.R
 b6fec6a4e4aa4f996e6e4312aa8cd06f *R/covariance.R
 d0129141df3ad419b7536663d1e95aaa *R/covariance_utils.R
+7ebd5aeeb8e57f3842997c8b98952d68 *R/get_hypothesis.R
 d4d9df4863f10b94fda12b26fac28c8e *R/print_functions.R
 168b06fe76476743b62bfb9a244bea87 *R/utils.R
-f3f42098f0c2138c60d0bedf43c4ac8f *README.md
+770c4c7ea9e151dddd6e2458ad1cb0b7 *README.md
 75d0a007992c60d09f764686e9397c0f *build/partial.rdb
 94b1937813d72549591eac5d43bdb2f3 *man/ATS.Rd
 5c0532c78c5efb771b649c7e499a55cb *man/ATS_fun.Rd
@@ -25,6 +27,8 @@ b3eec8f9ba49a3c3c3ac3a23b4f8f6cb *man/Qvech.Rd
 94f62a17796fbee751f6a2f908832f79 *man/WDirect.sumL.Rd
 2daee8fab3e4caa5e92759a451a0e9b5 *man/dvech.Rd
 d69adf4c4f763b35a3514f870092de3f *man/generateData.Rd
+574d59dafca65de119b5dbab38d7700c *man/get_extended_matrix.Rd
+574e981ac2b9f4fa69090899144fde5f *man/get_hypothesis.Rd
 fc5bafd89b6f53240ee5e44cbd4f2d4c *man/print.CombTest.Rd
 930646b5d3673703e7b21fa61a9d4fec *man/print.CovTest.Rd
 759602588c47884eb1870faf0f0fc757 *man/subdiagonal_mean_ratio_cor.Rd
@@ -38,6 +42,7 @@ abbe051801636160669e5802d3a078fc *man/vdtcrossprod.Rd
 354cc4a7cb2ab2e71be96a626bc48b59 *man/vechp.Rd
 ae05b935acd09a55972e6e73af8397bb *man/vtcrossprod.Rd
 02decd3241646b4111c33348bc6eba1b *tests/testthat.R
+adb556aebced031fdc6c74f17e23e0e8 *tests/testthat/test-gethypothesis.R
 10a6b1f10729795ad7b569548a9a8a80 *tests/testthat/test-test_combined.R
 9c8ffe0bf3ab3969f153afbef1cd783b *tests/testthat/test-test_correlation.R
 ec66e34ff157232793a85ae9068bc66a *tests/testthat/test-test_covariance.R
